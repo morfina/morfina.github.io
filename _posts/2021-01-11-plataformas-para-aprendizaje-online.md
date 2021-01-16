@@ -15,5 +15,7 @@ El objetivo de este post es compartir las principales plataformas (que conozco) 
 * [igmguru](https://www.igmguru.com/)
 * [udemy](https://www.udemy.com/)
 * [coursera](https://www.coursera.org/)
+* [treehouse](https://teamtreehouse.com/)
+* [platzi](https://platzi.com/)
 
 Saludos a todos :)
